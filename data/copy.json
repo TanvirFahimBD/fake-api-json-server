@@ -1,0 +1,34 @@
+{
+    "copy": [
+        {
+            "id": 1,
+            "text": "Learn Vanilla JavaScript copy",
+            "completed": true,
+            "color": "green"
+        },
+        {
+            "id": 2,
+            "text": "Learn Modern ES6+ JavaScript copy",
+            "completed": false,
+            "color": "red"
+        },
+        {
+            "id": 3,
+            "text": "Learn React JS copy",
+            "completed": true,
+            "color": "yellow"
+        },
+        {
+            "text": "Learn Redux Basics copy",
+            "completed": false,
+            "id": 4,
+            "color": "green"
+        },
+        {
+            "text": "Learn Redux fundamentals test copy",
+            "completed": false,
+            "id": 5,
+            "color": "red"
+        }
+    ]
+}
