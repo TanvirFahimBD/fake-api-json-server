@@ -2,6 +2,7 @@
   {
     "id": 1,
     "model": "AMD Ryzen 5 5600X Gaming PC",
+    "brand": "amd",
     "image": "https://live.staticflickr.com/65535/52522584794_4a9898a992_o.jpg",
     "status": true,
     "keyFeature": [
@@ -42,6 +43,7 @@
   {
     "id": 2,
     "model": "Intel 10th Gen Core i3-10100 Gaming PC",
+    "brand": "intel",
     "image": "https://live.staticflickr.com/65535/52521844202_dd853335c9_o.jpg",
     "status": false,
     "keyFeature": [
@@ -79,6 +81,7 @@
   {
     "id": 3,
     "model": "AMD Ryzen 5 3600 Gaming PC",
+    "brand": "amd",
     "image": "https://live.staticflickr.com/65535/52522855818_98bdd4c07a_o.jpg",
     "status": true,
     "keyFeature": [
@@ -115,7 +118,8 @@
   },
   {
     "id": 4,
-    "model": "Gaming PC 10th Gen Core i5-10400f",
+    "model": "AMD Gaming PC 10th Gen Core i5-10400f",
+    "brand": "amd",
     "image": "https://live.staticflickr.com/65535/52522584684_9fa14a3332_o.jpg",
     "status": false,
     "keyFeature": [
@@ -153,6 +157,7 @@
   {
     "id": 5,
     "model": "Intel 10th Gen Core i7-10700 Gaming PC",
+    "brand": "intel",
     "image": "https://live.staticflickr.com/65535/52522308736_8453894269_o.jpg",
     "status": true,
     "rating": 5,
@@ -190,6 +195,7 @@
   {
     "id": 6,
     "model": "Intel Core i5-11400 11th Gen Gaming PC",
+    "brand": "intel",
     "image": "https://live.staticflickr.com/65535/52522308721_4f2de69503_o.jpg",
     "status": true,
     "keyFeature": [
@@ -227,6 +233,7 @@
   {
     "id": 7,
     "model": "Intel 11th Gen Core i5-11400f Gaming PC",
+    "brand": "intel",
     "image": "https://live.staticflickr.com/65535/52522855818_98bdd4c07a_o.jpg",
     "status": false,
     "keyFeature": [
@@ -267,6 +274,7 @@
   {
     "id": 8,
     "model": "AMD Ryzen 7 5800X3D Gaming PC",
+    "brand": "amd",
     "image": "https://live.staticflickr.com/65535/52521844332_5f738162d8_o.jpg",
     "status": true,
     "keyFeature": [
