@@ -43,7 +43,7 @@
     "id": 2,
     "model": "Intel 10th Gen Core i3-10100 Gaming PC",
     "image": "https://live.staticflickr.com/65535/52521844202_dd853335c9_o.jpg",
-    "status": true,
+    "status": false,
     "keyFeature": [
       "MSI H510M-A PRO Intel 10th Gen and 11th Gen Mirco-ATX Motherboard",
       "Intel i3-10100 10th Gen Processor",
@@ -117,7 +117,7 @@
     "id": 4,
     "model": "Gaming PC 10th Gen Core i5-10400f",
     "image": "https://live.staticflickr.com/65535/52522584684_9fa14a3332_o.jpg",
-    "status": true,
+    "status": false,
     "keyFeature": [
       "MSI B560M-A PRO Intel 11th Gen mATX Motherboard",
       "Intel 10th Gen i5-10400F Processor",
@@ -228,7 +228,7 @@
     "id": 7,
     "model": "Intel 11th Gen Core i5-11400f Gaming PC",
     "image": "https://live.staticflickr.com/65535/52522855818_98bdd4c07a_o.jpg",
-    "status": true,
+    "status": false,
     "keyFeature": [
       "Intel 11th Gen Core i5-11400F Rocket Lake Processor",
       "ASRock B560M Steel Legend 10th and 11th Gen Micro ATX Motherboard",
